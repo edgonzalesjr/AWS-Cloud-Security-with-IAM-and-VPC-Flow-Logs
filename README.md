@@ -149,17 +149,23 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/6lpZFv3.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/3eRw0Vg.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attach Public Subnet to Internet Gateway.</b>
+<img src="https://imgur.com/6hOsh2p.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/ZnVv995.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Associate Public Route table to Public subnet and Private Route table to Private subnet.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Attach Public Subnet to Internet Gateway.</b>
 <br/>
 
 <p align="center">
