@@ -217,7 +217,11 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/I5legq0.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/FgewxQp.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/21xlgAk.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Attach IAM role to IAM policy.</b>
 <br/>
