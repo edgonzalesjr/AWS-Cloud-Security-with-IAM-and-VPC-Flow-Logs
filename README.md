@@ -17,16 +17,25 @@
 <b>AWS Console Login and Home page.</b>
 <br/>
 
+- IAM Roles and Users
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/3s46rJu.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/L58bOaJ.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create IAM demo-user.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Granting demo-user console access. Login the IAM demo-user.</b>
 <br/>
 
 <p align="center">
