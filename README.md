@@ -171,9 +171,17 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/Jf19JEG.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/lGN7Mjo.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/rHRsRfA.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/NMSXre0.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/vGtkTak.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Provision Public EC2 Instance in Public subnet.</b>
 <br/>
 
 <p align="center">
