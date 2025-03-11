@@ -86,16 +86,43 @@
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/NpH9qbW.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/L5KYijF.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/GLOZkpy.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/yY6WZPf.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/MSfzO5A.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Attach IAM Policy to demo-group. Access the S3 bucket with IAM demo-user. The demo-user inhirited the demo-group policy.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<b>.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<b>.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<b>.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attach IAM Policy to demo-group.</b>
+<b>.</b>
 <br/>
+
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
@@ -120,7 +147,6 @@
 <br/>
 <b>.</b>
 <br/>
-
 
 ## Outcome
 
