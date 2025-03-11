@@ -14,7 +14,7 @@
 <br/>
 <img src="https://imgur.com/nP3IAxw.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>AWS Console Login.</b>
+<b>AWS Console Login and Home page.</b>
 <br/>
 
 <p align="center">
