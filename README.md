@@ -185,9 +185,13 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/tuiE1jB.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/WUWWtT0.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/V7GKuVv.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Log group in CloudWatch.</b>
 <br/>
 
 <p align="center">
