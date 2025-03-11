@@ -51,6 +51,20 @@
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/dXgsb17.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/PrFhvuV.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/WHI4VqO.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/OkC9I1B.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/s4nWp4Z.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Assign IAM Policy to demo-user. Access the S3 bucket with IAM demo-user.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>.</b>
@@ -61,6 +75,14 @@
 <br/>
 <b>.</b>
 <br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+
 
 ## Outcome
 
