@@ -64,10 +64,39 @@
 <b>Assign IAM Policy to demo-user. Access the S3 bucket with IAM demo-user.</b>
 <br/>
 
+- IAM Groups and Permissions
+<p align="center">
+<img src="https://imgur.com/4xCWI3t.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/RqcQY5f.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/07LiAlE.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create IAM demo-group.</b>
+<br/>
+
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Add IAM demo-user to IAM demo-group.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Attach IAM Policy to demo-group.</b>
 <br/>
 
 <p align="center">
@@ -82,6 +111,17 @@
 <b>.</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
 
 
 ## Outcome
