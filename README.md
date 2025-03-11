@@ -99,10 +99,19 @@
 <b>Attach IAM Policy to demo-group. Access the S3 bucket with IAM demo-user. The demo-user inhirited the demo-group policy.</b>
 <br/>
 
+- AWS VPC Flow Logs
+<p align="center">
+<img src="https://imgur.com/i3Hpmma.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>AWS VPC Flow logs diagram.</b>
+<br/>
+
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create VPC.</b>
 <br/>
 
 <p align="center">
