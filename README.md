@@ -161,17 +161,13 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/eKaKWeD.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/CsYus7b.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attach Public Subnet to Internet Gateway.</b>
+<img src="https://imgur.com/5A5qxyF.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>Attach Public Route table to Internet Gateway. Public subnet are allowed to access the internet. Private subnet are prohibited to internet access.</b>
 <br/>
 
 <p align="center">
@@ -209,6 +205,37 @@
 <br/>
 <b>.</b>
 <br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
 
 ## Outcome
 
