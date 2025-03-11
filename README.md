@@ -167,7 +167,7 @@
 <br/>
 <img src="https://imgur.com/5A5qxyF.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attach Public Route table to Internet Gateway. Public subnet are allowed to access the internet. Private subnet are prohibited to internet access.</b>
+<b>Attach Public Route table to Internet Gateway. Public subnet is allowed to access the internet. Private subnet is prohibited to internet access.</b>
 <br/>
 
 <p align="center">
