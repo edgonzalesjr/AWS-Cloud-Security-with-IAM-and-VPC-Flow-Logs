@@ -139,6 +139,16 @@
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/i6IL1nn.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/aeuSlR7.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/CxtWZ1u.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Public and Private Route table.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
