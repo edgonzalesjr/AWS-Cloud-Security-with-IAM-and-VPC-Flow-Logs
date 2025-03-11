@@ -253,9 +253,13 @@
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/oyvmjRS.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/reeMXZp.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Test ping capture to the VPC Flow log and inspect network traffic coming in and going out to VPC.</b>
 <br/>
 
 <p align="center">
