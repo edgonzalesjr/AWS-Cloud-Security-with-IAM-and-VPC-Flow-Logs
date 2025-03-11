@@ -8,11 +8,13 @@
 
 
 ## Practical Exercises
-- 
+
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/VRQu1W0.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/nP3IAxw.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>AWS Console Login.</b>
 <br/>
 
 <p align="center">
