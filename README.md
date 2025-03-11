@@ -241,9 +241,15 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/EUIShRy.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/CHa6I7A.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/R1ZsKOH.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/mfG2rmV.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Check CloudWatch Log Group to see the logs coming in.</b>
 <br/>
 
 <p align="center">
