@@ -227,9 +227,17 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/0onl2Pz.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/p4D0Erm.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/7gFjUSK.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/RQ6GJp7.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/t7QSWT5.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Flow Log.</b>
 <br/>
 
 <p align="center">
