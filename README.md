@@ -195,15 +195,31 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/lH7SlXT.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/86glVFo.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/nCn0Mb2.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/nCn0Mb2.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/O9y81cI.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/UfzOlRq.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/tR0Fshx.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/eWihtHl.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/mss6Yl4.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Setup IAM Permission and Policy. VPC should use the correct IAM Permission and Policy to send Logs to dev-prj-log-group.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Attach IAM role to IAM policy.</b>
 <br/>
 
 <p align="center">
