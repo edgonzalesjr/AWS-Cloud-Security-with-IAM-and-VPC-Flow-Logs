@@ -107,9 +107,9 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/6Gh8i8I.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/riVQ4JI.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Create VPC.</b>
 <br/>
@@ -117,7 +117,9 @@
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Public Subnet.</b>
 <br/>
 
 <p align="center">
