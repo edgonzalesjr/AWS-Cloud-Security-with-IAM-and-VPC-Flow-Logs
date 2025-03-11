@@ -129,6 +129,26 @@
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Internet Gateway.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Attach Public Subnet to Internet Gateway.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
 <b>.</b>
 <br/>
 
@@ -138,6 +158,17 @@
 <b>.</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
