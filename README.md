@@ -115,11 +115,15 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/uop8uT3.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/j1JCrSi.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Create Public Subnet.</b>
+<img src="https://imgur.com/jt7z6hk.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/iKZudxI.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Create Public and Private Subnet.</b>
 <br/>
 
 <p align="center">
