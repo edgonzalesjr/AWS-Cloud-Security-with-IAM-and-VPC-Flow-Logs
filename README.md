@@ -127,15 +127,15 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/PSdHViS.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/YFAVzmQ.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/nHFxKIt.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/X8MSkZ6.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Create Internet Gateway.</b>
+<b>Create Internet Gateway and Attach to VPC.</b>
 <br/>
 
 <p align="center">
