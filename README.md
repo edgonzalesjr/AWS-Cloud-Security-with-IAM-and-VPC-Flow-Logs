@@ -27,15 +27,27 @@
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/bKasKFy.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/lo5Iki5.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/l2iZnoG.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/lng3syC.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Granting demo-user console access. Login the IAM demo-user.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>.</b>
 <br/>
 
 <p align="center">
