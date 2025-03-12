@@ -1,8 +1,24 @@
 ## Objective
-
+To develop hands-on cybersecurity skills through practical, real-world applications of AWS services, focusing on Identity and Access Management (IAM), VPC networking, and log-based monitoring.
 
 ### Skills Learned
-
+- IAM User and Role Management
+  - Creation and management of IAM users, roles, and permissions.
+  - Crafting and assigning IAM policies for resource access, with a focus on AWS S3 permissions.
+  - Setting up IAM user groups for efficient permission management across a team or organization.
+- VPC Networking
+  - Designing and configuring a Virtual Private Cloud (VPC), including public subnet.
+  - Configuring Internet Gateways and Route Tables for secure and efficient traffic management.
+  - Deploying and securing EC2 instance in public subnet type.
+  - SSH access to EC2 instances, emphasizing secure methods for managing cloud resources.
+- Monitoring and Flow Logs
+  - Setting up VPC flow logs to capture network traffic for auditing and troubleshooting.
+  - Creating and managing CloudWatch log groups to store flow logs.
+  - Configuring IAM roles for access to CloudWatch logs and analyzing traffic data for security issues.
+  - Verifying traffic flow and log entries by pinging external IPs from EC2 instance.
+- Cloud Infrastructure Security
+  - Identifying and mitigating security risks by properly configuring IAM policies and VPC settings.    
+  - Using cloud-native monitoring tools to improve security visibility and ensure compliance. 
 
 ### Tools Used
 
