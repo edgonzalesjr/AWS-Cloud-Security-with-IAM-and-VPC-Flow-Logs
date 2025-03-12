@@ -38,6 +38,8 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 <b>AWS Console Login and Home page.</b>
 <br/>
 
+---
+
 - IAM Roles and Users
 <p align="center">
 <img src="https://imgur.com/3s46rJu.png" height="90%" width="90%" alt="Device Specification"/>
