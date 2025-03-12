@@ -87,6 +87,8 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 <b>Assign IAM Policy to demo-user. Access the S3 bucket with IAM demo-user.</b>
 <br/>
 
+---
+
 - IAM Groups and Permissions
 <p align="center">
 <img src="https://imgur.com/4xCWI3t.png" height="90%" width="90%" alt="Device Specification"/>
