@@ -9,7 +9,7 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 - VPC Networking
   - Designing and configuring a Virtual Private Cloud (VPC), including public subnet.
   - Configuring Internet Gateways and Route Tables for secure and efficient traffic management.
-  - Deploying and securing EC2 instance in public subnet type.
+  - Deploying and securing EC2 instance in public subnet.
   - SSH access to EC2 instances, emphasizing secure methods for managing cloud resources.
 - Monitoring and Flow Logs
   - Setting up VPC flow logs to capture network traffic for auditing and troubleshooting.
@@ -21,7 +21,12 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
   - Using cloud-native monitoring tools to improve security visibility and ensure compliance. 
 
 ### Tools Used
-
+- AWS Management Console: Used to create, configure, and manage AWS resources such as IAM users, VPCs, EC2 instances, and CloudWatch log groups.
+- IAM (Identity and Access Management): For creating users, roles, and policies to control access to AWS services and resources securely.
+- Amazon VPC (Virtual Private Cloud): For creating and managing a private network with public and private subnets, security groups, route tables, and internet gateways.
+- EC2 (Elastic Compute Cloud): Used to deploy and manage virtual instances within AWS for hands-on learning and testing.
+- CloudWatch: For monitoring AWS resources and setting up log groups to track VPC flow logs and network traffic.
+- SSH (Secure Shell): To securely access and manage EC2 instances in a cloud environment.
 
 ## Practical Exercises
 
@@ -117,7 +122,7 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 
 - AWS VPC Flow Logs
 <p align="center">
-<img src="https://imgur.com/i3Hpmma.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/f3Kbg5L.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>AWS VPC Flow logs diagram.</b>
 <br/>
