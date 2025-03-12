@@ -39,6 +39,7 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 <br/>
 
 ---
+![image](https://github.com/user-attachments/assets/a62e785a-73d2-47a2-ad3f-1e9b7fa31a47)
 
 - IAM Roles and Users
 <p align="center">
