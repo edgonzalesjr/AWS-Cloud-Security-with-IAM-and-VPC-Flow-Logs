@@ -284,12 +284,17 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 <br/>
 
 ## Outcome
-
+- Practical Security Expertise
+  - Ability to configure IAM policies, manage user access, and implement security best practices within AWS.
+  - Develop a strong understanding of VPC networking, subnet configuration, and resource isolation to enhance cloud infrastructure security.
+- Enhanced Monitoring and Incident Response
+  - Proficient in setting up and analyzing VPC flow logs, identifying anomalies, and responding to potential security incidents effectively.
+  - Ability to set up comprehensive monitoring solutions using CloudWatch for real-time visibility and security auditing.
 
 ## Acknowledgements
-This project combines ideas and methods from various sources, such as the  and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses. 
- - []()
- - []()
+This project combines ideas and methods from various sources, such as the Youtube videos by Rahul Wagh and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses. 
+ - [Amazon AWS](https://aws.amazon.com/)
+ - [Rahul Wagh](https://www.youtube.com/playlist?list=PL7iMyoQPMtAN4xl6oWzafqJebfay7K8KP)
 
 ## Disclaimer
 The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors.
