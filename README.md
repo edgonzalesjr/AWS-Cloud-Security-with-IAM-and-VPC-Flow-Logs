@@ -4,13 +4,13 @@ To develop hands-on cybersecurity skills through practical, real-world applicati
 ### Skills Learned
 - IAM User and Role Management
   - Creation and management of IAM users, roles, and permissions.
-  - Crafting and assigning IAM policies for resource access, with a focus on AWS S3 permissions.
+  - Assigning IAM policies for resource access, with a focus on AWS S3 permissions.
   - Setting up IAM user groups for efficient permission management across a team or organization.
 - VPC Networking
   - Designing and configuring a Virtual Private Cloud (VPC), including public subnet.
   - Configuring Internet Gateways and Route Tables for secure and efficient traffic management.
   - Deploying and securing EC2 instance in public subnet.
-  - SSH access to EC2 instances, emphasizing secure methods for managing cloud resources.
+  - SSH access to EC2 instance, emphasizing secure methods for managing cloud resources.
 - Monitoring and Flow Logs
   - Setting up VPC flow logs to capture network traffic for auditing and troubleshooting.
   - Creating and managing CloudWatch log groups to store flow logs.
